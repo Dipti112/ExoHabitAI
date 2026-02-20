@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+Flask
+joblib
+requests
+plotly
+gunicorn
+flask-cors==4.0.0
+     

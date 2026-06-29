@@ -10,5 +10,4 @@ ExoHabitAI is an AI-based system that predicts the habitability potential of exo
 - HTML, CSS, JavaScript
 - Data Visualization
 
-## Project Status – Project Completed .
 
